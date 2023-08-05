@@ -1006,25 +1006,3 @@ $ git push origin :refs/tags/[tag]
 ```
 
 
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-`
