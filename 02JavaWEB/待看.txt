@@ -1,3 +1,4 @@
 AJAX
 JQUERY的dom操作
 JDBC和MySQL
+TreadLocal相关看的不是很明白
